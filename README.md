@@ -1,13 +1,9 @@
 # 📚 Book Recommendation System
 
-<<<<<<< HEAD
 🔗 **Live Demo:** [bookrecommendationsystempython.streamlit.app](https://bookrecommendationsystempython.streamlit.app/)
 
 A content-based book recommendation web app built with Python and Streamlit.
 
-=======
-A content-based book recommendation web app built with Python and Streamlit.
->>>>>>> aeb32121bc3c0a2e636b56457e8a09f73c485a93
 ## Features
 
 - **Genre-based recommendations** — select one or more genres and get matching book suggestions
