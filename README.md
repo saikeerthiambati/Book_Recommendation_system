@@ -1,5 +1,7 @@
 # 📚 Book Recommendation System
 
+🔗 **Live Demo:** [bookrecommendationsystempython.streamlit.app](https://bookrecommendationsystempython.streamlit.app/)
+
 A content-based book recommendation web app built with Python and Streamlit.
 
 ## Features
