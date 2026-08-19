@@ -1,7 +1,6 @@
 # 📚 Book Recommendation System
 
-A content-based book recommendation web app built with Python and Streamlit. Built as part of the **SAM AI Technologies Internship Program** (Artificial Intelligence track — Task 3).
-
+A content-based book recommendation web app built with Python and Streamlit.
 ## Features
 
 - **Genre-based recommendations** — select one or more genres and get matching book suggestions
