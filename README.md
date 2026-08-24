@@ -2,7 +2,7 @@
 
 🔗 **Live Demo:** [bookrecommendationsystempython.streamlit.app](https://bookrecommendationsystempython.streamlit.app/)
 
-A content-based book recommendation web app built with Python and Streamlit.
+A content-based book recommendation web app built with Python and Streamlit. This is done as part of AI Internship at SAM AI Technologies.
 
 ## Features
 
